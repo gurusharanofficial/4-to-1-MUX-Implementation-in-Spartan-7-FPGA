@@ -1,7 +1,7 @@
 # 4:1 Multiplexer Implementation in Spartan-7 FPGA
 
 ## Aim
-To design, simulate, synthesize, and implement a 4:1 Multiplexer using Verilog HDL on a Spartan-7 FPGA using Xilinx Vivado Design Suite.
+To design, synthesize, and implement a 4:1 Multiplexer using Verilog HDL on a Spartan-7 FPGA using Xilinx Vivado Design Suite.
 
 ---
 
@@ -15,7 +15,7 @@ To design, simulate, synthesize, and implement a 4:1 Multiplexer using Verilog H
 ---
 
 ## Theory
-A **4:1 multiplexer** selects one of four data inputs (D0..D3) and routes it to a single output Y, based on two select lines S[1:0].
+A **4:1 multiplexer** selects one of four data inputs (i0..i3) and routes it to a single output y, based on two select lines sel[1:0].
 
 **Truth table**
 
